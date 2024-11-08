@@ -104,7 +104,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Live Website
 
-Check out the live version of the website here: [Tic-Tac-Toe](https://keerthana2802.github.io/Tic-Tac-Toe/)
+Check out the live version of the website here: [Tic-Tac-Toe](https://keerthana2802.github.io/React-Tic-Tac-Toe/)
 
 ## Contact
 
